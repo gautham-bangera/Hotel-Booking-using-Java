@@ -1,7 +1,11 @@
-# 🏨 Hotel Management System
+<h1 align="center">🏨 Hotel Management System</h1>
 
 <p align="center">
 <b>Java Swing Desktop Application for Hotel Booking & Management</b>
+</p>
+
+<p align="center">
+🚀 Room Booking • 🍽 Food Ordering • 📊 Dashboard
 </p>
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
