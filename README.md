@@ -8,9 +8,6 @@
 🚀 Room Booking • 🍽 Food Ordering • 📊 Dashboard
 </p>
 
-![Java](https://img.shields.io/badge/Language-Java-blue)
-![GUI](https://img.shields.io/badge/Framework-Swing-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
